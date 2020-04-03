@@ -145,3 +145,4 @@ static
 
 .vscode/
 archive/
+.DS_store
