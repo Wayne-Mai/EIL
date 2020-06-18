@@ -1,6 +1,11 @@
 ## EIL: A Simple yet Effective Approach for Weakly Supervised Object Localization
 
+
+### <font color="#660000">This is an ugly implementation yet, I'll clean the raw code and update this repo very soon ~~</font><br /> 
+
 ![Overview of the network](readMeImg/network_overview.png)
+
+
 
 #### How to run it
 
